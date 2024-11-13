@@ -65,6 +65,11 @@ This project is a Java-based text analysis tool designed to preprocess and analy
 
 The UML diagram illustrates the relationships between the main classes in this project: `Article`, `FrequencySort`, and `Main`. Each class is responsible for a specific task in the article preprocessing workflow.
 
+## Output Results
+![Output Results]()
+
+This is a screenshot of the output results.
+
 ## Conclusion
 This project successfully implements a basic text analysis tool, hitting the Milestone 2 requirements by:
 - Preprocessing articles from different topics.
