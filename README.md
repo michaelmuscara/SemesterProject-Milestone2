@@ -68,8 +68,6 @@ The UML diagram illustrates the relationships between the main classes in this p
 ## Output Results
 ![Output Results](https://github.com/michaelmuscara/SemesterProject-Milestone2/blob/main/output.png)
 
-This is a screenshot of the output results.
-
 ## Conclusion
 This project successfully implements a basic text analysis tool, hitting the Milestone 2 requirements by:
 - Preprocessing articles from different topics.
